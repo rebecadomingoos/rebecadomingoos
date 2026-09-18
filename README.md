@@ -5,11 +5,9 @@
 🚀 Apaixonada por tecnologia e por criar soluções através da programação.
 
 ## 🚀 Tecnologias
-- Java
 - JavaScript
 - HTML
 - CSS
-- C
  ## 🧠 Áreas de estudo
 - Estrutura de Dados
 - Banco de Dados
